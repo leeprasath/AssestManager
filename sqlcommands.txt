@@ -1,0 +1,21 @@
+ 1. View All Records
+SELECT * FROM license_usage_log;
+
+ 2. View Limited Records (First 10 Rows)
+ 2. View Limited Records (First 10 Rows)
+
+ 3. Describe Table Structure
+\d license_usage_log
+\dt                 -- list all tables
+\d+ license_usage_log  -- detailed view of table
+
+4. Count Total Rows
+SELECT COUNT(*) FROM license_usage_log;
+
+5. Filter by License ID or Date
+SELECT * 
+FROM license_usage_log 
+WHERE license_id = '55041006001' 
+ORDER BY license_start_time DESC;
+
+5. Filter by License ID or Date 

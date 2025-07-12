@@ -1,0 +1,107 @@
+﻿vni_asset_number,license_id,project_name,domain_name,team_name,current_user_id,duration_days,duration_hours,justification
+VNI_CE_SWP_174_2022,55000097290,Suzuki,system,PVV,gayathri.sri@continental-corporation.com,0,0,4-Jul-2025 Assigned to System Team
+VNI_CE_SWP_174_2022,55012037059,Suzuki,system,PVV,gayathri.sri@continental-corporation.com,0,0,4-Jul-2025 Assigned to System Team
+AN RD PL2 TEL SYS_19,55000288568,Suzuki,system,PVV,srinath.junuthula@continental-corporation.com,0,0,"only CAN Bus No ethernet, Less usage can be shared"
+AN RD PL2 TEL SYS_18,55000288567,MB,system,PVV,shreesha.adiga.h@continental-corporation.com,0,0,"License used every day, Issue with Tracking tool"
+AN RD PL2 TEL SYS_18,55012052099,MB,system,PVV,shreesha.adiga.h@continental-corporation.com,0,0,"License used every day, Issue with Tracking tool"
+AN RD PL2 TEL SYS_34,55000292229,Nissan_IVC3,system,PVV,akash.belagi@continental-corporation.com,0,0,"License used every day, License Tracker not installed (will be Installed on 14-July-2025)"
+AN RD PL2 TEL SYS_34,55012053508,Nissan_IVC3,system,PVV,akash.belagi@continental-corporation.com,0,0,"License used every day, License Tracker not installed (will be Installed on 14-July-2025)"
+SCT_RM_SW_097_2024,55000301174,Nissan_IVC4,system,PVV,Prashanth Kumar,0,0,"License used every day, Issue with Tracking tool"
+SCT_RM_SW_097_2024,55012056486,Nissan_IVC4,system,PVV,Prashanth Kumar,0,0,"License used every day, Issue with Tracking tool"
+AN RD PL2 TEL SYS_14,55000276522,Nissan_IVC4,system,PVV,Rajeev Kolluru,0,0,"License used every day, License Tracker not installed (Installed on 10-July-2025)"
+AN RD PL2 TEL SYS_14,55012047408,Nissan_IVC4,system,PVV,Rajeev Kolluru,0,0,"License used every day, License Tracker not installed (Installed on 10-July-2025)"
+VNI_CE_SYS_47_2022,,,,,,0,0,License Number needed
+IBS_ASW_479_2018,,Suzuki,system,PVV,,0,0,License Number needed
+"AN RD PL2 TEL SYS_03	",55030016733,Suzuki,system,PVV,ravi.shantilal.rathod@continental-corporation.com,1,23,"License used every day, Issue with Tracking tool"
+"AN RD PL2 TEL SYS_03	",55041005620,Suzuki,system,PVV,ravi.shantilal.rathod@continental-corporation.com,1,23,"License used every day, Issue with Tracking tool"
+"VNI_CE_SYS_98_2022	",55030014434,Suzuki,system,PVV,srinath.junuthula@continental-corporation.com,3,84,"License used every day, Issue with Tracking tool"
+"VNI_CE_SYS_98_2022	",55041004911,Suzuki,system,PVV,srinath.junuthula@continental-corporation.com,3,84,"License used every day, Issue with Tracking tool"
+SCT_RM_SW_038_2023,55004002576,Nissan_IVC4,system,PVV,rajeev.kolluru@continental-corporation.com,8,192,Needed for MCAT and NCT Testing with LIN
+"VNI_CE_SYS_99_2022	",55000259253,Suzuki,system,PVV,chaitanya.kodati@continental-corporation.com,9,210,
+"VNI_CE_SYS_99_2022	",55012041020,Suzuki,system,PVV,chaitanya.kodati@continental-corporation.com,9,210,
+SCT_RM_SW_038_2023,55000005738,Nissan_IVC4,system,PVV,rajeev.kolluru@continental-corporation.com,9,210,Needed for MCAT and NCT Testing with LIN
+AN RD PL2 TEL SYS_12,55000285566,Suzuki,system,PVV,prasad.gundluri@continental-corporation.com,12,311,
+AN RD PL2 TEL SYS_12,55012050817,Suzuki,system,PVV,prasad.gundluri@continental-corporation.com,12,311,
+AN RD PL4 BAC SW_126,55012035383,MB,system,PVV,shaik.muvaz@continental-corporation.com,16,386,
+AN RD PL4 BAC SW_126,55004039873,MB,system,PVV,shaik.muvaz@continental-corporation.com,16,386,
+AN RD PL4 BAC SW_126,55000277350,MB,system,PVV,shaik.muvaz@continental-corporation.com,16,386,
+AN RD PL2 TEL SYS_11,55000285567,Suzuki,system,PVV,prasad.gundluri@continental-corporation.com,17,409,
+AN RD PL2 TEL SYS_11,55012050822,Suzuki,system,PVV,prasad.gundluri@continental-corporation.com,17,409,
+AN RD PL4 BAC SW_93,55012030327,MB,system,PVV,muralikrishna.dasari@continental-corporation.com,18,431,
+AN RD PL4 BAC SW_93,55000079556,MB,system,PVV,muralikrishna.dasari@continental-corporation.com,18,431,
+VNI_CE_SYS_61_2022,55000099986,MB,system,PVV,vinoth.3.muniyappa@continental-corporation.com,19,461,
+VNI_CE_SYS_61_2022,55012037983,MB,system,PVV,vinoth.3.muniyappa@continental-corporation.com,19,461,
+ANS RD PL2 TEL SYS_35,55008006754,MB,system,PVV,vinoth.3.muniyappa@continental-corporation.com,19,461,
+AN RD PL2 TEL SYS_13,55012050820,Nissan_IVC4,system,PVV,raghavendra.rao.v@continental-corporation.com,19,455,
+AN RD PL2 TEL SYS_13,55000285570,Nissan_IVC4,system,PVV,raghavendra.rao.v@continental-corporation.com,19,455,
+AN RD PL2 TEL SYS_14,55000266917,Nissan_IVC3,system,PVV,amirishetty.mahesh@continental-corporation.com,20,480,
+AN RD PL2 TEL SYS_14,55012043858,Nissan_IVC3,system,PVV,amirishetty.mahesh@continental-corporation.com,20,480,
+VNI_CE_SYS_66_2022 ,55000103180,Suzuki,system,PVV,shan.e.v@continental-corporation.com,21,508,
+VNI_CE_SYS_66_2022 ,55012039394,Suzuki,system,PVV,shan.e.v@continental-corporation.com,21,508,
+AN RD PL2 TEL SYS_04,55000275822,Suzuki,system,PVV,shan.e.v@continental-corporation.com,22,529,
+AN RD PL2 TEL SYS_17,55000285568,Nissan_IVC3,system,PVV,pavithra.c.s@continental-corporation.com,22,540,
+AN RD PL2 TEL SYS_17,55012050819,Nissan_IVC3,system,PVV,pavithra.c.s@continental-corporation.com,22,540,
+AN RD PL2 TEL SYS_15,55030018023,Suzuki,system,PVV,lakshmi.devi.k@continental-corporation.com,24,571,
+AN RD PL2 TEL SYS_15,55041005998,Suzuki,system,PVV,lakshmi.devi.k@continental-corporation.com,24,571,
+VNI_CE_SYS_67_2022 ,55000103181,Suzuki,system,PVV,srinath.junuthula@continental-corporation.com,29,686,
+VNI_CE_SYS_67_2022 ,55012039395,Suzuki,system,PVV,srinath.junuthula@continental-corporation.com,29,686,
+AN RD PL2 TEL SYS_02,55000275823,Suzuki,system,PVV,chaitanya.kodati@continental-corporation.com,29,686,
+AN RD PL2 TEL SYS_02,55012047069,Suzuki,system,PVV,chaitanya.kodati@continental-corporation.com,29,686,
+AN RD PL2 TEL SW_26,55030018031,FermiEVO,software,,,16,390,
+AN RD PL2 TEL SW_26,55041006001,FermiEVO,software,,,5,153,
+AN RD PL2 TEL SW_21,55030018030,Nissan_AIVC4,software,,akshay.3.m.patil@continental-corporation.com,0,5,less than 5 day?: 
+AN RD PL2 TEL SW_21,55041005996,Nissan_AIVC4,software,,akshay.3.m.patil@continental-corporation.com,0,5,less than 5 day?: 
+AN RD PL2 TEL SW_20,55030018025,Suzuki,software,Diag,ambati.bhargavi.2.reddy@continental-corporation.com,15,360,
+AN RD PL2 TEL SW_20,55041005991,Suzuki,software,Diag,ambati.bhargavi.2.reddy@continental-corporation.com,15,360,
+AN RD PL2 TEL SW_09,55030016735,Suzuki,software,Diag,ambati.bhargavi.2.reddy@continental-corporation.com,9,243,
+AN RD PL2 TEL SW_09,55041005622,Suzuki,software,Diag,ambati.bhargavi.2.reddy@continental-corporation.com,9,243,
+AN RD PL2 TEL SW_10,55030016734,Suzuki,software,Diag,chandan.b.s@continental-corporation.com,12,300,
+AN RD PL2 TEL SW_10,55041005621,Suzuki,software,Diag,chandan.b.s@continental-corporation.com,12,300,
+AN RD PL2 TEL SW_12,55000275833,Suzuki,software,PM,rakesh.b@continental-corporation.com,6,161,
+VNI_CE_ASW_140_2022,55030014574,Suzuki,software,VI,manikanta.gona@continental-corporation.com,12,290,
+VNI_CE_ASW_140_2022,55041004964,Suzuki,software,VI,manikanta.gona@continental-corporation.com,0,0,Invalid LicenseID or tracking issue?
+VNI_CE_ASW_139_2022,55030014573,Suzuki,software,VI,manikanta.gona@continental-corporation.com,3,106,
+VNI_CE_ASW_139_2022,55041004963,Suzuki,software,VI,manikanta.gona@continental-corporation.com,13,314,
+IBS_ASW_671_2020,55000260648,Suzuki,software,VI,abhishek.2.hegde@continental-corporation.com,7,232,
+IBS_ASW_671_2020,55012041311,Suzuki,software,VI,abhishek.2.hegde@continental-corporation.com,7,232,
+VNI_CE_ASW_193_2022,55000266618,Nissan_AIVC4,software,,sushmitha.g@continental-corporation.com,1,29,less than 5 day?: 
+VNI_CE_ASW_193_2022,55012043713,Nissan_AIVC4,software,,sushmitha.g@continental-corporation.com,1,29,less than 5 day?: 
+VNI_CE_ASW_155_2022,55000097461,Suzuki,software,PM,shwetha.balladka@continental-corporation.com,3,79,less than 5 day?: 
+AN RD PL2 TEL SW_24,55030018022,Nissan_AIVC4,software,,samarth.l@continental-corporation.com,6,148,
+AN RD PL2 TEL SW_24,55041005997,Nissan_AIVC4,software,,samarth.l@continental-corporation.com,6,138,
+AN RD PL4 BAC SW_122,55012041312,Ramses,software,,kallesha.c.r@continental-corporation.com,0,16,less than 5 day?: 
+AN RD PL4 BAC SW_123,55012043715,Ramses,software,,kallesha.c.r@continental-corporation.com,2,48,less than 5 day?: 
+AN RD PL4 BAC SW_123,55000275834,Ramses,software,,kallesha.c.r@continental-corporation.com,2,48,less than 5 day?: 
+IBS_ASW_672_2021,55000260649,Suzuki,software,,aishwarya.3.patil@continental-corporation.com,0,16,less than 5 day?: 
+AN RD PL2 TEL SW_25,55030018027,Nissan_AIVC4,software,,gaganadeep.hadli@continental-corporation.com,5,153,
+AN RD PL2 TEL SW_25,55041005999,Nissan_AIVC4,software,,gaganadeep.hadli@continental-corporation.com,13,281,
+VNI_CE_SYS_69_2022,55000266917,,software,,,20,480,
+VNI_CE_SYS_69_2022,55012043858,,software,,,20,480,
+VNI_CE_SYS_68_2022,55000266918,,software,,,0,0,Invalid LicenseID or tracking issue?
+VNI_CE_SYS_68_2022,55012043859,,software,,,0,0,Invalid LicenseID or tracking issue?
+VNI_CE_SYS_100_2022,55013006901,,software,,,0,0,Invalid LicenseID or tracking issue?
+"VNI_CE_SYS_101	",55042000038,,software,,,0,0,Invalid LicenseID or tracking issue?
+VNI_CE_SYS_98_2022,55030014434,,software,,,3,84,
+VNI_CE_SYS_98_2022,55041004911,,software,,,3,84,
+VNI_CE_SYS_99_2022 ,55000259253,,software,,,9,210,
+VNI_CE_SYS_99_2022 ,55012041020,,software,,,9,210,
+,55620006075,,software,,,0,0,Invalid LicenseID or tracking issue?
+,55620006074,,software,,,0,0,Invalid LicenseID or tracking issue?
+,55620006192,,software,,,0,0,Invalid LicenseID or tracking issue?
+,55619005779,,software,,,0,0,Invalid LicenseID or tracking issue?
+,55620003627,,software,,,0,0,Invalid LicenseID or tracking issue?
+,55619004517,,software,,,0,0,Invalid LicenseID or tracking issue?
+,55619005781,,software,,,0,0,Invalid LicenseID or tracking issue?
+,55619005780,,software,,,0,0,Invalid LicenseID or tracking issue?
+,55000266619  ,,software,,,0,0,Invalid LicenseID or tracking issue?
+,55012043714  ,,software,,,0,0,Invalid LicenseID or tracking issue?
+,55000285566,,software,,,12,311,
+,55012050817,,software,,,12,311,
+,55000285567,,software,,,17,409,
+,55012050822,,software,,,17,409,
+,55000285570,,software,,,19,455,
+,55012050820,,software,,,19,455,
+,55030018024,,software,,,0,11,less than 5 day?: 
+,55041006000,,software,,,0,11,less than 5 day?: 
+,55030018021,,software,,,6,138,
+,55041005992,,software,,,16,390,
